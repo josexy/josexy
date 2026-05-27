@@ -29,5 +29,5 @@
 
 [![joxrays's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=josexy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=josexy&show_icons=true&hide=javascript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=josexy&show_icons=true&hide=javascript,typescript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
